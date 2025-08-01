@@ -1,0 +1,32 @@
+<div align="center">
+  <!-- Imagem do sistema operacional -->
+  <a href="https://www.empresaxyz.com.br"  target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/lucastavarestga/fk-images/refs/heads/main/icons8-firewall-96.png"  alt="Firewall" style="width:96px;height:96px;" />
+  </a>
+
+  <!-- Título do sistema -->
+  <p style="font-family: Arial, sans-serif; font-size: 14px; color: #555; margin: 5px 0;"><strong>S.O.:</strong> Firewall - Pfsense 2.8.0</p>
+  <p style="font-family: Arial, sans-serif; font-size: 14px; color: #555; margin: 5px 0;"><strong>Função:</strong> LAB Firewall</p>
+</div>
+
+<div align="center">
+  <!-- Logo da FK+ -->
+  <a href="https://www.empresaxyz.com.br"  target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/lucastavarestga/fk-images/refs/heads/main/logo-nike-exemplo.png"  alt="Logo Empresa XYZ" style="width:100px;height:auto;margin-bottom:10px;" />
+  </a>
+
+  <!-- Botão de contato (como link estilizado) -->
+  <p style="font-family: Arial, sans-serif; font-size: 14px; color: white; background-color: #ff4500; padding: 10px 20px; border-radius: 5px; display: inline-block; text-decoration: none;">
+    <a href="https://www.empresaxyz.com.br"  target="_blank" rel="noopener noreferrer" style="color: white; text-decoration: none;">
+      Entre em contato com a Empresa XYZ
+    </a>
+  </p>
+
+  <!-- Link do site -->
+  <p style="font-family: Arial, sans-serif; font-size: 14px; color: #555; margin-top: 15px;">
+    Site: 
+    <a href="https://empresaxyz.com.br"  target="_blank" rel="noopener noreferrer" style="color: #00617f; text-decoration: underline;">
+      https://empresaxyz.com.br 
+    </a>
+  </p>
+</div>
