@@ -1,0 +1,32 @@
+<div align="center">
+  <!-- Imagem do sistema operacional -->
+  <a href="https://www.siteempresaxyz.com.br"  target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/lucastavarestga/fk-images/refs/heads/main/icons8-windows-10-96.png"  alt="Windows Server 2016" style="width:86px;height:86px;" />
+  </a>
+
+  <!-- Título do sistema -->
+  <p style="font-family: Arial, sans-serif; font-size: 14px; color: #555; margin: 5px 0;"><strong>S.O.:</strong> Windows Server 2016</p>
+  <p style="font-family: Arial, sans-serif; font-size: 14px; color: #555; margin: 5px 0;"><strong>Função:</strong> Descricao VM Exemplo</p>
+</div>
+
+<div align="center">
+  <!-- Logo da Empresa -->
+  <a href="https://www.siteempresaxyz.com.br"  target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/lucastavarestga/fk-images/refs/heads/main/logo-nike-exemplo.png"  alt="Logo Empresa XYZ" style="width:100px;height:auto;margin-bottom:10px;" />
+  </a>
+
+  <!-- Botão de contato (como link estilizado) -->
+  <p style="font-family: Arial, sans-serif; font-size: 14px; color: white; background-color: #ff4500; padding: 10px 20px; border-radius: 5px; display: inline-block; text-decoration: none;">
+    <a href="https://www.siteempresaxyz.com.br"  target="_blank" rel="noopener noreferrer" style="color: white; text-decoration: none;">
+      Entre em contato com a Empresa XYZ
+    </a>
+  </p>
+
+  <!-- Link do site -->
+  <p style="font-family: Arial, sans-serif; font-size: 14px; color: #555; margin-top: 15px;">
+    Site: 
+    <a href="https://fkmais.com.br"  target="_blank" rel="noopener noreferrer" style="color: #00617f; text-decoration: underline;">
+      https://www.siteempresaxyz.com.br 
+    </a>
+  </p>
+</div>
