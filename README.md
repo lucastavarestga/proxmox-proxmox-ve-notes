@@ -34,6 +34,7 @@ Aqui você encontra os modelos de notas prontos para uso:
 
 e-mail: lucastavarestga@gmail.com
 ### [Linkedin lucastavarestga](https://www.linkedin.com/in/lucastavarestga)
-### [Youtube lucastavarestga]([https://www.linkedin.com/in/lucastavarestga](https://youtube.com/@lucastavaressoares)
+### [Youtube lucastavarestga](https://youtube.com/@lucastavaressoares))
+### [Youtube MasterMindTI](https://www.youtube.com/@mastermindti))
 
 
