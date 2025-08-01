@@ -28,7 +28,7 @@ Aqui você encontra os modelos de notas prontos para uso:
 
 * [Modelo Windows Server 2016](https://github.com/lucastavarestga/proxmox-proxmox-ve-notes/blob/main/notes-windows-2016-01.txt)
 
-* [Modelo Linux Debian Server 12](link-para-futuro-modelo)
+* [Modelo Firewall Pfsense 2.8](https://github.com/lucastavarestga/proxmox-proxmox-ve-notes/blob/main/notes-pfsense-2.8-01.txt)
 
 ### Qualquer dúvida, entre em contato.
 
