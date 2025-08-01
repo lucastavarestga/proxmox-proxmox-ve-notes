@@ -30,5 +30,10 @@ Aqui você encontra os modelos de notas prontos para uso:
 
 * [Modelo Linux Debian Server 12](link-para-futuro-modelo)
 
+### Qualquer dúvida, entre em contato.
+
+e-mail: lucastavarestga@gmail.com
+### [Linkedin lucastavarestga](https://www.linkedin.com/in/lucastavarestga)
+### [Youtube lucastavarestga]([https://www.linkedin.com/in/lucastavarestga](https://youtube.com/@lucastavaressoares)
 
 
