@@ -32,13 +32,6 @@ Aqui você encontra os modelos de notas prontos para uso:
 
 ### Qualquer dúvida, entre em contato.
 
-e-mail: lucastavarestga@gmail.com
-### [Linkedin lucastavarestga](https://www.linkedin.com/in/lucastavarestga)
-### [Youtube lucastavarestga](https://youtube.com/@lucastavaressoares)
-### [Youtube MasterMindTI](https://www.youtube.com/@mastermindti)
-
-### Entre em contato:
-
 <a href="mailto:lucastavarestga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucastavarestga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://youtube.com/@lucastavaressoares" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
